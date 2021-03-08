@@ -29,7 +29,7 @@ PORT=3333
 
 ## **Running migration**
 ```bash
-$ yarn run typeorm migration:run
+$ yarn typeorm migration:run
 ```
 
 ## **Running the app**
